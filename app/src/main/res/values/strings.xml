@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cat Fact</string>
+    <string name="get_fact">Get Fact</string>
+</resources>
